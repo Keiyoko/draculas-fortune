@@ -4,7 +4,7 @@
 
 [![Dracula's Flow 3](https://img.youtube.com/vi/N-7gbWKbXbQ/0.jpg)](https://www.youtube.com/watch?v=N-7gbWKbXbQ)
 
-He just doesn't need to check the price tag. Type `flow` and receive the wisdom of Dracula himself, straight from the bando to your terminal.
+He just doesn't need to check the price tag. Type `flow` and receive the wisdom of Dracula himself, straight spitting fire in your terminal.
 
 ## Install
 
