@@ -1,6 +1,8 @@
-# Draculas Fortune
+# 🧛 Dracula's Fortune
 
-A simple fortune script that outputs a random line from the draculas-fortune list.
+> *"This shit ain't nothin' to me, man"*
+
+A fortune teller for the streets. Type `flow` and receive the wisdom of Dracula himself, straight from the bando to your terminal.
 
 ## Install
 
@@ -16,6 +18,21 @@ source ~/.bashrc
 
 ## Usage
 
-```
+```bash
 flow
 ```
+
+That's it. You are now enlightened.
+
+## Requirements
+
+- `curl`
+- `shuf` (part of GNU coreutils, you probably already have it)
+- A terminal
+- No loyalty to anyone, never did, never will
+
+## Notes
+
+- Requires internet connection. This shit ain't cached.
+- If it doesn't work, that's your problem.
+- I'm movin' different.
