@@ -2,6 +2,8 @@
 
 > *"This shit ain't nothin' to me, man"*
 
+[![Dracula's Flow 3](https://img.youtube.com/vi/N-7gbWKbXbQ/0.jpg)](https://www.youtube.com/watch?v=N-7gbWKbXbQ)
+
 A fortune teller for the streets. Type `flow` and receive the wisdom of Dracula himself, straight from the bando to your terminal.
 
 ## Install
